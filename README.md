@@ -1,5 +1,17 @@
 # Weekly Group Meeting Repo For AI Group
 
+## 2019.5.29
+### 1. Deep InfoMax
+
+Speaker: Liwen Zhang
+
+Papers: 
+1. [MINE: Mutual Information Neural Estimation](http://arxiv.org/abs/1801.04062)
+2. [Learning deep representations by mutual information estimation and maximization](http://arxiv.org/abs/1808.06670)
+3. [Deep Graph Infomax](http://arxiv.org/abs/1809.10341)
+
+---
+
 ## 2019.5.15
 ### 1. Deep biaffine dependency parsing
 
@@ -99,7 +111,7 @@ Speaker: Jiong Cai
 Papers:
 1. [Mutual Information Maximization for Simple and Accurate Part-Of-Speech Induction](/papers/1804.07849.pdf)
 
---- 
+---
 
 ## 2019.3.27
 
@@ -127,7 +139,7 @@ Papers:
 [slides: seq-kd](/slides/sep-kd-slides.pdf)
 [slides: sa-vae](/slides/sa-vae-slides.pdf)
 
---- 
+---
 
 ## 2019.3.20
 
