@@ -15,7 +15,7 @@ Papers:
 Speaker: Ge Wang
 
 Papers:
-1. [Unsupervised Recurrent Neural Network Grammars](/papers/1904.03746 (1).pdf)
+1. [Unsupervised Recurrent Neural Network Grammars](/papers/1904.03746(1).pdf)
 
 [slides](/slides/URNNG.pdf)
 
