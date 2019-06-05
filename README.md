@@ -10,7 +10,7 @@ Papers:
 2. [Learning deep representations by mutual information estimation and maximization](http://arxiv.org/abs/1808.06670)
 3. [Deep Graph Infomax](http://arxiv.org/abs/1809.10341)
 
-###2. Unsupersived Recurrent Neural Network Grammars
+### 2. Unsupersived Recurrent Neural Network Grammars
 
 Speaker: Ge Wang
 
