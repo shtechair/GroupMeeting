@@ -1,5 +1,21 @@
 # Weekly Group Meeting Repo For AI Group
 
+## 2019.6.5
+### 1. Cross-Lingual Alignment of Contextual Word Embeddings with Applications to Zero-shot Dependency Parsing
+
+Speaker: Yong Jiang
+
+Papers:[Cross-Lingual Alignment of Contextual Word Embeddings with Applications to Zero-shot Dependency Parsing](https://arxiv.org/abs/1902.09492)
+
+[slides](/slides/20190609-multilingual-parsing.pdf)
+
+### 2. Representing Formal Languages: A Comparison Between Finite Automata and Recurrent Neural Networks
+
+Speaker: Jiong Cai
+
+Papers: [Representing Formal Languages: A Comparison Between Finite Automata and Recurrent Neural Networks](https://openreview.net/forum?id=H1zeHnA9KX)
+
+
 ## 2019.5.29
 ### 1. Deep InfoMax
 
