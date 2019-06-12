@@ -1,5 +1,14 @@
 # Weekly Group Meeting Repo For AI Group
 
+## 2019.6.12
+### 1. Phylogenetic Multi-Lingual Dependency Parsing
+
+Speaker: Zhao Li
+
+Papers:[Phylogenetic Multi-Lingual Dependency Parsing](https://www.aclweb.org/anthology/N19-1017)
+
+[slides](slides/groupmeeting0612.pdf)
+
 ## 2019.6.5
 ### 1. Cross-Lingual Alignment of Contextual Word Embeddings with Applications to Zero-shot Dependency Parsing
 
@@ -21,7 +30,7 @@ Papers: [Representing Formal Languages: A Comparison Between Finite Automata and
 
 Speaker: Liwen Zhang
 
-Papers: 
+Papers:
 1. [MINE: Mutual Information Neural Estimation](http://arxiv.org/abs/1801.04062)
 2. [Learning deep representations by mutual information estimation and maximization](http://arxiv.org/abs/1808.06670)
 3. [Deep Graph Infomax](http://arxiv.org/abs/1809.10341)
@@ -42,11 +51,11 @@ Papers:
 
 Speaker: Jingxian Huang
 
-Papers: 
+Papers:
 1. [Deep Biaffine Attention For Neural Dependency Parsing](/papers/1611.01734.pdf)
 2. [Simpler but More Accurate Semantic Dependency Parsing](/papers/1807.01396.pdf)
 
-[slides](/slides/DeepBiaffineAttentionDependencyParsing.pdf) 
+[slides](/slides/DeepBiaffineAttentionDependencyParsing.pdf)
 
 ---
 
@@ -83,7 +92,7 @@ Speaker: Chengyue Jiang
 ### 1. Multitask Learning For Semantic Parsing
 Speaker: Xinyu Wang
 
-Papers: 
+Papers:
 1. [Deep Multitask Learning for Semantic Dependency Parsing](/papers/1704.06855.pdf)
 2. [Multitask Parsing Across Semantic Representations](/papers/1805.00287.pdf)
 
