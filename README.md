@@ -1,5 +1,22 @@
 # Weekly Group Meeting Repo For AI Group
 
+## 2019.6.19
+### 1. Papers about parsing from ACL 2019
+
+Speaker: Xinyu Wang
+
+Papers: 
+1. Second-Order Semantic Dependency Parsing with End-to-End Neural Networks
+2. Graph-based Dependency Parsing with Graph Neural Networks.
+
+### 2. Papers about generation in ACL 2019
+
+Speaker: Yixian Liu
+
+Papers:
+1. Dual Supervised Learning for Natural Language Understanding and Generation
+2. Controllable Paraphrase Generation with a Syntactic Exemplar
+
 ## 2019.6.12
 ### 1. Phylogenetic Multi-Lingual Dependency Parsing
 
@@ -8,6 +25,11 @@ Speaker: Zhao Li
 Papers:[Phylogenetic Multi-Lingual Dependency Parsing](https://www.aclweb.org/anthology/N19-1017)
 
 [slides](slides/groupmeeting0612.pdf)
+
+### 2. About Zixia's work
+
+Speaker: Zixia Jia
+
 
 ## 2019.6.5
 ### 1. Cross-Lingual Alignment of Contextual Word Embeddings with Applications to Zero-shot Dependency Parsing
